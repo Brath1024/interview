@@ -5,7 +5,7 @@
 ![](https://img.shields.io/amo/stars/star?color=1&label=Flutter&logo=1&logoColor=1&style=plastic)
 ![80x80](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/80x80.png)
 
-#### 面试记：一个安全便捷的面试刷题APP！
+#### 面试记：一个安全便捷的面试刷题APP&网站！
 
 ##### 👩‍🎓网站目前还在建设当中~
 
