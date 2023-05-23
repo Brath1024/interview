@@ -19,7 +19,9 @@
 
 ## 下载
 
-​	  微信公众号：【InterviewCoder】回复“面试记”下载，目前仅支持安卓端，IOS未上线！
+​		1.下载链接：[面试记](https://www.pgyer.com/d39b2207ea0ac3df91c0ae385855bc35)
+
+​		2.扫码下载：![img](https://www.pgyer.com/app/qrcode/interview_app_release)
 
 ​		若想加入面试记项目开发，请添加QQ技术群：339088307
 
@@ -85,43 +87,43 @@ ps：（画个大饼）奇遇记模式类似Soul星球匹配，你可以作为�
 
 #### 首页：
 
-![image-20230517151019335](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230517151019335.png)
+![image-20230517151019335](../%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%9B%BE/image-20230517151019335.png)
 
 #### 帖子详情：
 
-![image-20230513091910258](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230513091910258.png)
+![image-20230513091910258](../%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%9B%BE/image-20230513091910258.png)
 
 #### 支持代码块：
 
-![image-20230513091939954](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230513091939954.png)
+![image-20230513091939954](../%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%9B%BE/image-20230513091939954.png)
 
 #### 发帖：
 
-![image-20230513091956266](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230513091956266.png)
+![image-20230513091956266](../%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%9B%BE/image-20230513091956266.png)
 
 #### 面试：
 
-![image-20230517151033217](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230517151033217.png)
+![image-20230517151033217](../%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%9B%BE/image-20230517151033217.png)
 
 #### 题目详情：
 
-![image-20230513092012540](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230513092012540.png)
+![image-20230513092012540](../%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%9B%BE/image-20230513092012540.png)
 
 #### 模拟练习：
 
-![image-20230513092042027](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230513092042027.png)
+![image-20230513092042027](../%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%9B%BE/image-20230513092042027.png)
 
 #### 错题解析&交流：
 
-![image-20230513092103287](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230513092103287.png)
+![image-20230513092103287](../%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%9B%BE/image-20230513092103287.png)
 
 #### 个人主页：
 
-![image-20230513092122991](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230513092122991.png)
+![image-20230513092122991](../%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%9B%BE/image-20230513092122991.png)
 
 ## ChatGPT支持
 
-![image-20230517151045853](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230517151045853.png)
+![image-20230517151045853](../%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%9B%BE/image-20230517151045853.png)
 
 
 
